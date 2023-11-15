@@ -3,6 +3,7 @@
 
 ### 🔍 Habilidades y Áreas de Interés:
 - **Data Analysis**: Proficiente en el análisis de datos para obtener insights significativos.
+- **MATLAB**: Implementación de algoritmos y análisis numérico para resolver problemas complejos.
 - **SQL**: Experiencia sólida en la manipulación y consulta eficiente de bases de datos.
 - **Python**: Desarrollo de scripts y aplicaciones para la manipulación y visualización de datos.
 - **Machine Learning**: Aplicación de algoritmos para resolver problemas y tomar decisiones basadas en datos.
