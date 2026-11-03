@@ -11,8 +11,7 @@
 
 ### 🚀 Proyectos Destacados:
 - [Sistema de predicion de irradiacion con CNN]: Sistema de prediccion de irradiacion solar que usa como base imagenes satelitales para estimar la irradiacion solar en un punto.
-- [Codember_1]: Contador de frecuencia de aparicion de palabras en un archivo.
-- [codember_2]: Mini compilador en Python capaz de interpretar y ejecutar programas escritos en un lenguaje de símbolos simple..
+
 
 ### 📚 Aprendizaje Continuo:
 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. ¡Explora mis repositorios y únete a mi viaje de aprendizaje!
